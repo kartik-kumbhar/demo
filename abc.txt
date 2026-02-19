@@ -1,6 +1,7 @@
 feaure 1
 feaure 2
 feaure 3
+feature 4
 
 git branch feature4
 git checkout feature4 (to change branch)

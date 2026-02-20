@@ -1,13 +1,3 @@
 feaure 1+bugfix1
 feaure 2
 feaure 3
-feature 4
-
-git branch feature4
-git checkout feature4 (to change branch)
-
-// to merge code main -> feature4 
-git checkout main
-git pull
-git checkout feature4
-git merge main
